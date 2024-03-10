@@ -1,4 +1,4 @@
-## Bank Customer Acquisition Analysis for a Term Deposit Product
+## Analysis on customer acquistion data
 
 An anonyms company had conducted a telemarketing campaign. Through the campaign, the company had collected data about the prospects' demographics : The channel through which the customer was gained, its cost, conversion rate and total revenue it generated in return. 
 
